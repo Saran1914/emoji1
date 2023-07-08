@@ -1,0 +1,112 @@
+/* .emoji{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255, 238, 0, 0.943);
+    margin-left: 50px;
+    padding: 50px;
+    /* border-radius: 50%; circle shape */
+    /* border-radius: 60px 60px 60px 60px;
+    box-shadow: 10px 10px 10px 10px red;
+}
+
+.eye{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    border-color: black transparent transparent transparent ;
+    border-radius: 0px 50px 0px 50px;
+} */ 
+
+.face{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 234, 0);
+    border-radius: 50%;
+}
+
+.reye{
+    height: 40px;
+    width: 20px;
+    background-color: black;
+    border-radius: 100%;
+    position:absolute;
+    top: 60px;
+    left: 50px;
+    overflow: hidden;
+}
+.leye{
+    height: 40px;
+    width: 20px;
+    background-color: black;
+    border-radius: 100%;
+    position:absolute;
+    top: 60px;
+    left: 145px;
+    overflow: hidden;
+}
+.mouth{
+    height: 30px;
+    width: 60px;
+    background-color: red;
+    position: absolute;
+    top: 150px;
+    left: 80px;
+    border-radius: 0px 0px 50px 50px;
+    overflow: hidden;
+}
+.tongue{
+    height: 40px;
+    width: 40px;
+    background-color: palevioletred;
+    border-radius: 100%;
+    position: absolute;
+    top: 8px;
+    left: 10px;
+}
+.reye:hover{
+    background-color:black;
+    transform: scale(1.5);
+}
+.leye:hover{
+    background-color: black;
+    transform: scale(1.5);
+}
+.eyeball1{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border-radius: 100%;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+}
+.eyeball2{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border-radius: 100%;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+}
+.emoji:hover{
+    transform: rotate(180deg);
+}
+/* .nose{
+    height: 10px;
+    width: 5px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 110px;
+    left: 105px;
+} */
+/* tongue{
+    height: 30px;
+    width: 60px;
+    background-color: palevioletred;
+    position: absolute;
+    top: 150px;
+    left: 80px; */
+    /* border-radius: 50px 50px 50px 50px; */
